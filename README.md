@@ -10,6 +10,6 @@ The statistical analysis looks at measures of central tendency and measurses of 
 A report is inlcuded with conclusions, limitations of the dataset, and other insights.
 
 Files included:
-CrowdfundingBook.xlsx - Original Excel Workbook
-CrowdfundingBook_Analyzed.xlsx - Organized and Analyzed Excel Workbook
-Crowdfunding_Analysis.docx - Report
+* CrowdfundingBook.xlsx - Original Excel Workbook
+* CrowdfundingBook_Analyzed.xlsx - Organized and Analyzed Excel Workbook
+* Crowdfunding_Analysis.docx - Report
