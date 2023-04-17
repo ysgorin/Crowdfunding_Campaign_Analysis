@@ -2,7 +2,7 @@
 
 ## Introduction
 
-As part of my GWU Data Analysis & Visualization Boot Camp, I was was tasked with organizing and analyzing a database of 1,000 generated sample crowdfunding projects using Excel.
+As part of my GWU Data Analysis & Visualization Boot Camp, I was tasked with organizing and analyzing a database of 1,000 generated sample crowdfunding projects using Excel.
 
 Excel features used in this project include:
 * Excel Formulas
